@@ -18,7 +18,7 @@ ristorante i saraceni come cameriere
 gestione della cassa presso sala scommesse 
 tirocinio presso studio commercialistico 
 
-* competenze linguistiche
+# competenze linguistiche
 * conoscenza lingua inglese: scolastica
 * conoscenza lingua spagnola: B2
   
