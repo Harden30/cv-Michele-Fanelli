@@ -22,3 +22,4 @@ tirocinio presso studio commercialistico
 * conoscenza lingua inglese: scolastica
 * conoscenza lingua spagnola: B2
   
+# Possesore di patente B
